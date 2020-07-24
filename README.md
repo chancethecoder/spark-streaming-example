@@ -1,1 +1,1 @@
-# ICT Spark Consumer
+spark streaming kafka consumer example
